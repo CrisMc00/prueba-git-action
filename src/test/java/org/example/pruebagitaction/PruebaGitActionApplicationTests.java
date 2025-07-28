@@ -10,6 +10,7 @@ class PruebaGitActionApplicationTests {
     void contextLoads() {
 
         Assertions.assertEquals(1, 1);
+        Assertions.assertEquals(1, 1);
     }
 
 }
