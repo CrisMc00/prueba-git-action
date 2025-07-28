@@ -13,6 +13,7 @@ class PruebaGitActionApplicationTests {
         Assertions.assertEquals(1, 1);
         Assertions.assertEquals(1, 1);
         Assertions.assertEquals(1, 1);
+        Assertions.assertEquals(1, 1);
     }
 
 }
